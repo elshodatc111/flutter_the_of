@@ -21,9 +21,9 @@ class _PhoneNumberState extends State<PhoneNumber> {
           children: [
             Text(
               number,
-              style: TextStyle(fontSize: 32),
+              style: TextStyle(fontSize: 48),
             ),
-            SizedBox(height: 15),
+            SizedBox(height: 16),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
@@ -43,14 +43,14 @@ class _PhoneNumberState extends State<PhoneNumber> {
                         Text(
                           '1',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 28,
                           ),
                         ),
                         Text(
                           ' ',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 12,
                           ),
                         ),
@@ -78,14 +78,14 @@ class _PhoneNumberState extends State<PhoneNumber> {
                         Text(
                           '2',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 28,
                           ),
                         ),
                         Text(
                           'ABC',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 12,
                           ),
                         ),
@@ -113,14 +113,14 @@ class _PhoneNumberState extends State<PhoneNumber> {
                         Text(
                           '3',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 28,
                           ),
                         ),
                         Text(
                           'DEF',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 12,
                           ),
                         ),
@@ -134,7 +134,7 @@ class _PhoneNumberState extends State<PhoneNumber> {
                 ),
               ],
             ),
-            SizedBox(height: 15),
+            SizedBox(height: 16),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
@@ -154,14 +154,14 @@ class _PhoneNumberState extends State<PhoneNumber> {
                         Text(
                           '4',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 28,
                           ),
                         ),
                         Text(
                           'GHI',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 12,
                           ),
                         ),
@@ -189,14 +189,14 @@ class _PhoneNumberState extends State<PhoneNumber> {
                         Text(
                           '5',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 28,
                           ),
                         ),
                         Text(
                           'JKL',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 12,
                           ),
                         ),
@@ -224,14 +224,14 @@ class _PhoneNumberState extends State<PhoneNumber> {
                         Text(
                           '6',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 28,
                           ),
                         ),
                         Text(
                           'MNO',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 12,
                           ),
                         ),
@@ -245,7 +245,7 @@ class _PhoneNumberState extends State<PhoneNumber> {
                 ),
               ],
             ),
-            SizedBox(height: 15),
+            SizedBox(height: 16),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
@@ -265,14 +265,14 @@ class _PhoneNumberState extends State<PhoneNumber> {
                         Text(
                           '7',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 28,
                           ),
                         ),
                         Text(
                           'PQRS',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 12,
                           ),
                         ),
@@ -300,14 +300,14 @@ class _PhoneNumberState extends State<PhoneNumber> {
                         Text(
                           '8',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 28,
                           ),
                         ),
                         Text(
                           'TUV',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 12,
                           ),
                         ),
@@ -335,14 +335,14 @@ class _PhoneNumberState extends State<PhoneNumber> {
                         Text(
                           '9',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 28,
                           ),
                         ),
                         Text(
                           'WXYZ',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 12,
                           ),
                         ),
@@ -356,7 +356,7 @@ class _PhoneNumberState extends State<PhoneNumber> {
                 ),
               ],
             ),
-            SizedBox(height: 15),
+            SizedBox(height: 16),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
@@ -376,7 +376,7 @@ class _PhoneNumberState extends State<PhoneNumber> {
                         Text(
                           '*',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 28,
                           ),
                         ),
@@ -404,14 +404,14 @@ class _PhoneNumberState extends State<PhoneNumber> {
                         Text(
                           '0',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 28,
                           ),
                         ),
                         Text(
                           '+',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 12,
                           ),
                         ),
@@ -439,7 +439,7 @@ class _PhoneNumberState extends State<PhoneNumber> {
                         Text(
                           '#',
                           style: TextStyle(
-                            backgroundColor: Colors.white30,
+                            backgroundColor: Color(0xffE5E5E5),
                             fontSize: 28,
                           ),
                         ),
@@ -453,7 +453,7 @@ class _PhoneNumberState extends State<PhoneNumber> {
                 ),
               ],
             ),
-            SizedBox(height: 15),
+            SizedBox(height: 16),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
@@ -516,7 +516,7 @@ class _PhoneNumberState extends State<PhoneNumber> {
                 ),
               ],
             ),
-            SizedBox(height: 15),
+            SizedBox(height: 60),
           ],
         ),
       ),
